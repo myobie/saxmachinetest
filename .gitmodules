@@ -1,0 +1,3 @@
+[submodule "Classes/SAXMachine"]
+	path = Classes/SAXMachine
+	url = git://github.com/myobie/saxmachine.git
